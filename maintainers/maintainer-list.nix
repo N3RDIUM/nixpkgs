@@ -17949,7 +17949,7 @@
     email = "n3rdium@n3rdium.dev";
     github = "n3rdium";
     githubId = 74598401;
-  }
+  };
   n8henrie = {
     name = "Nathan Henrie";
     email = "nate@n8henrie.com";
